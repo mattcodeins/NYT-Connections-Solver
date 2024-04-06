@@ -1,0 +1,7 @@
+k means with cap on groups
+some algorithm that fairly sorts all groups simult
+
+find best four
+guess
+account for information gained and repeat
+likely fall for red herrings ^
